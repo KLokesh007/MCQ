@@ -42,13 +42,19 @@ Logs exam results in exam_client.log.
 
 # Project Structure
 
-mcq_exam/
-│
+mcq
+
+
 ├── question.csv          # Stores all questions
+
 ├── question_master.py    # Question management system
+
 ├── exam_client.py        # Exam interface for students
+
 ├── question_master.log   # Log file for question operations
+
 ├── exam_client.log       # Log file for exam sessions
+
 └── README.md             # Project documentation
 
 # Requirements
