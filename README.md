@@ -1,4 +1,6 @@
-# MCQ Based Online Exam Application
+# Made by:- Lokesh kumar & Neelmani Bhardwaj
+
+## MCQ Based Online Exam Application
 
 This project is a simple MCQ (Multiple Choice Question) Online Exam Application built in Python.
 It includes two main modules:
